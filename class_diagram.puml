@@ -15,7 +15,5 @@
     TestBase <|-- TestRegistrationPage
     
     TestHomePage ..> HomePage
-    TestRegistrationPage ..> RegistratioPage
-    
-    
+    TestRegistrationPage ..> RegistratioPage   
 @enduml
