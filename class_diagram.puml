@@ -1,6 +1,11 @@
 @startuml
+    class TestFixture
+    class FetchdataService
+    
     class BasePage
-    BasePage : -driver
+        BasePage : -frontend
+        BasePage : -backend
+        BasePage : -dataservice
     class HomePage
     class RegistrationPage
     
@@ -14,6 +19,10 @@
     TestBase <|-- TestHomePage
     TestBase <|-- TestRegistrationPage
     
+    BasePage ..> TestFixture
+    BasePage ..> FetchdataService
+    
     TestHomePage ..> HomePage
-    TestRegistrationPage ..> RegistratioPage   
+    TestRegistrationPage ..> RegistratioPage
+    
 @enduml
