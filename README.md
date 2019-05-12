@@ -28,7 +28,7 @@
   * Fixtures are simple and easy to use 
   * We can use pyBuilder to have a setup like Maven. I have not explored it yet though. Any idea if we can incude pom.xml file in Python project?
   * Python Folder Structure
-    * ![python folder structure](http://www.plantuml.com/plantuml/png/5SqnZW8n34RXVa-nN23kgUOc8vCO4ibn8lkt4BU7gLxtlYF0ZfpwTnjMDPkawty7Tjo9dD_bDT3paI5Ubq4CfQv9F0U2dOssibq3cXmGf_r1NtO-bpRnC-1PaIvbNyWXrdxz0W00)
+    * ![python folder structure](http://www.plantuml.com/plantuml/png/1S7H3O8n20R0LNG0oxlB_C4MRPC23Np4kBrtzsLzrv2AVPl0oITHyBTz5cQzAYMw6yJGkYjbfIxm0mH9SC6LiTn8EI51vuVfThrz3uah4TLH8UsKxZy0)
 
-## POM Object Model - class
+## POM Object Model
  ![Class Diagram](http://www.plantuml.com/plantuml/png/1S7H3G9120JGLhG0bt-RCRX7xaYMvS8CiNtVU_gUgm_hMe-BlF4MAVsDqtdrjs4rSzCsnymGDCAfBmeDr6Q6qdDBA6WbSodmELpFqXXtn_e3)
