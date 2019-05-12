@@ -21,12 +21,9 @@
     * ![maven folder structure](http://www.plantuml.com/plantuml/png/1S5H4i8m20JGg-W13FzUfeCfsZWXT61Nhz_txcFroTsOytO0Ppr5Kl_jCt3mnRBiiM0BhOTBiNn07n1OGObmnOWbhWLB-UfFjtVCtN8h93kOraxwl000)
 * Python
   * Allows for compact test suites
-  * Very pretty and useful failure information
-  * Test parametrization
-  * Minimal boilerplate
-  * Extensible (plugins are available) 
-  * Fixtures are simple and easy to use 
-  * We can use pyBuilder to have a setup like Maven. I have not explored it yet though. Any idea if we can incude pom.xml file in Python project?
+  * Unittest will have decorator like skip, expected error, assertEqual(), etc.
+  * We can use pyBuilder to have a setup like Maven. I have not explored it yet though. Can we include pom.xml file in Python project?
+  * Proboscis works like TestNG, we can use that for controlling test flow
   * Python Folder Structure
     * ![python folder structure](http://www.plantuml.com/plantuml/png/5SsnhK8n30NG_a_n6O2uftgRF9d4a4Y97TdNGcmFLASyHu0TkURVPMYTsIHz_dTWnut8-LMU0ptl6UBL5A8erHP5nXhWAmWIu8GjnZ2bnG5nsczqq_DXiucV0S-AT2dxLnsYxUi7)
 
