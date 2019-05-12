@@ -31,4 +31,4 @@
     * ![python folder structure](http://www.plantuml.com/plantuml/png/5SsnhK8n30NG_a_n6O2uftgRF9d4a4Y97TdNGcmFLASyHu0TkURVPMYTsIHz_dTWnut8-LMU0ptl6UBL5A8erHP5nXhWAmWIu8GjnZ2bnG5nsczqq_DXiucV0S-AT2dxLnsYxUi7)
 
 ## POM Object Model 
- ![Class Diagram](http://www.plantuml.com/plantuml/png/1S7H3G9120JGLhG0bt-RCRX7xaYMvS8CiNtVU_gUgm_hMe-BlF4MAVsDqtdrjs4rSzCsnymGDCAfBmeDr6Q6qdDBA6WbSodmELpFqXXtn_e3)
+ ![Class Diagram](http://www.plantuml.com/plantuml/png/TP712i8m38RlFaLVO7i04HaUXaTHNo1sSHQt3ffCFFZmMeKG5jl33l_th_bA6c98F8_3odsE7u38dP6u3K-U4wgqHVQt3XXEc1x1_v3YEo0yGAz_sK_ZCZfY7uWJS9YYeCNiV5EEyf70hLrrJLDaZDrVU05_Bx6iJQAjPob57PSryqVUwZQlgbBFDCZUeyronLfONBQHRbrlzTuiBAzF2tohnaRFbvQHQZ1sypYy0G00)
