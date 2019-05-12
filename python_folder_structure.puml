@@ -4,7 +4,10 @@ salt
     {T
         + <size:16><&folder> webautomation
             ++ <size:16><&folder> src
+                +++ <size:16><&folder> <color:black> testfixture
+                ++++ <size:12><&file> test_fixture.py
                 +++ <size:16><&folder> fetchdataservice
+                ++++ <size:12><&file> fetchdata_service.py
                 +++ <size:16><&folder> <color:black> pageobject
                 ++++ <size:12><&file> base_page.py
                 ++++ <size:12><&file> home_page.py
@@ -19,5 +22,6 @@ salt
                 +++ <size:16><&folder> testsuite
                 ++++ <size:12><&file> testrunner.py
     }
+
 }
 @enduml
