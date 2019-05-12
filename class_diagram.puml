@@ -23,6 +23,5 @@
     BasePage ..> FetchdataService
     
     TestHomePage ..> HomePage
-    TestRegistrationPage ..> RegistratioPage
-    
+    TestRegistrationPage ..> RegistrationPage
 @enduml
