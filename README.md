@@ -30,5 +30,5 @@
   * Python Folder Structure
     * ![python folder structure](http://www.plantuml.com/plantuml/png/5SsnhK8n30NG_a_n6O2uftgRF9d4a4Y97TdNGcmFLASyHu0TkURVPMYTsIHz_dTWnut8-LMU0ptl6UBL5A8erHP5nXhWAmWIu8GjnZ2bnG5nsczqq_DXiucV0S-AT2dxLnsYxUi7)
 
-## POM Object Model
+## POM Object Model 
  ![Class Diagram](http://www.plantuml.com/plantuml/png/1S7H3G9120JGLhG0bt-RCRX7xaYMvS8CiNtVU_gUgm_hMe-BlF4MAVsDqtdrjs4rSzCsnymGDCAfBmeDr6Q6qdDBA6WbSodmELpFqXXtn_e3)
