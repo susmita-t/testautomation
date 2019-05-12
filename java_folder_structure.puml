@@ -1,0 +1,19 @@
+@startuml
+salt
+{
+    {T
+        + <size:16><&folder> webautomation
+            ++ <size:16><&folder> src
+                +++ <size:16><&folder> main
+                ++++ <size:16><&folder> <color:black> java
+                ++++ <size:16><&folder> <color:black> resources
+                +++ <size:16><&folder> test
+                ++++ <size:16><&folder> <color:black> java
+                ++++ <size:16><&folder> <color:black> resources
+                
+            ++ <size:16><&folder> target
+                +++ <size:16><&folder> script
+            +++ <size:12><&file> target.xml
+    }
+}
+@enduml

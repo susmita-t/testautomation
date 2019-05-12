@@ -1,0 +1,23 @@
+@startuml
+salt
+{
+    {T
+        + <size:16><&folder> webautomation
+            ++ <size:16><&folder> src
+                +++ <size:16><&folder> fetchdataservice
+                +++ <size:16><&folder> <color:black> pageobject
+                ++++ <size:12><&file> base_page.py
+                ++++ <size:12><&file> home_page.py
+                ++++ <size:12><&file> registration_page.py
+            ++ <size:16><&folder> test
+                +++ <size:16><&folder> script
+                ++++ <size:12><&file> base_page.py
+                ++++ <size:12><&file> home_page.py
+                ++++ <size:12><&file> registration_page.py
+                +++ <size:16><&folder> utility
+                ++++ <size:12><&file> screenshot.py
+                +++ <size:16><&folder> testsuite
+                ++++ <size:12><&file> testrunner.py
+    }
+}
+@enduml

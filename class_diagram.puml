@@ -1,0 +1,21 @@
+@startuml
+    class BasePage
+    BasePage : -driver
+    class HomePage
+    class RegistrationPage
+    
+    class TestBase
+    class TestHomePage
+    class TestRegistrationPage
+    
+    
+    BasePage <|-- HomePage
+    BasePage <|-- RegistrationPage
+    TestBase <|-- TestHomePage
+    TestBase <|-- TestRegistrationPage
+    
+    TestHomePage ..> HomePage
+    TestRegistrationPage ..> RegistratioPage
+    
+    
+@enduml
