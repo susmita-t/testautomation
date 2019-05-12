@@ -1,4 +1,3 @@
-help available in https://stackoverflow.com/questions/32203610/how-to-integrate-uml-diagrams-into-gitlab-or-github
 # Test Automation
 
 ## Discussion
