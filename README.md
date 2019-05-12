@@ -32,4 +32,4 @@ help available in https://stackoverflow.com/questions/32203610/how-to-integrate-
     * ![python folder structure](http://www.plantuml.com/plantuml/png/5SqnZW8n34RXVa-nN23kgUOc8vCO4ibn8lkt4BU7gLxtlYF0ZfpwTnjMDPkawty7Tjo9dD_bDT3paI5Ubq4CfQv9F0U2dOssibq3cXmGf_r1NtO-bpRnC-1PaIvbNyWXrdxz0W00)
 
 ## POM Object Model
- ![Class Diagram](http://www.plantuml.com/plantuml/png/1S7H3SCm20JGLTe5p7-NgQwEbI01iU1GryzxRurfVQnEUrtahez8uZzEvTM_hfNp3gxWcBSBN5b8X6n3iDt4KLmfqr3rFHHdmiTkjmS0)
+ ![Class Diagram](http://www.plantuml.com/plantuml/png/1S7H3G9120JGLhG0bt-RCRX7xaYMvS8CiNtVU_gUgm_hMe-BlF4MAVsDqtdrjs4rSzCsnymGDCAfBmeDr6Q6qdDBA6WbSodmELpFqXXtn_e3)
