@@ -18,7 +18,7 @@
   * TestNG
   * Built in functionalities like PageFactory to initialize the locators
   * Maven project
-    * ![maven folder structure](http://www.plantuml.com/plantuml/png/1S7H4G8n20N0LhI1y6ypDyYX5mT81XxQlhlt6M9zQgVTBc3NWoZvDzuJLp-xD6K5D31aER5F52S7RUD0kv5pGPC-_ENZjUpKF0hPWauTkzt-)
+    * ![maven folder structure](http://www.plantuml.com/plantuml/png/1S5H4i8m20JGg-W13FzUfeCfsZWXT61Nhz_txcFroTsOytO0Ppr5Kl_jCt3mnRBiiM0BhOTBiNn07n1OGObmnOWbhWLB-UfFjtVCtN8h93kOraxwl000)
 * Python
   * Allows for compact test suites
   * Very pretty and useful failure information
