@@ -3,13 +3,13 @@
     class FetchdataService
     
     class BasePage
-        BasePage : -frontend
-        BasePage : -backend
-        BasePage : -dataservice
     class HomePage
     class RegistrationPage
     
     class TestBase
+        TestBase : -frontend
+        TestBase : -backend
+        TestBase : -dataservice
     class TestHomePage
     class TestRegistrationPage
     
