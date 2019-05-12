@@ -13,7 +13,7 @@ salt
                 
             ++ <size:16><&folder> target
                 +++ <size:16><&folder> script
-            +++ <size:12><&file> target.xml
+            +++ <size:12><&file> pom.xml
     }
 }
 @enduml
