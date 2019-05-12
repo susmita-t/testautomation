@@ -19,8 +19,8 @@
     TestBase <|-- TestHomePage
     TestBase <|-- TestRegistrationPage
     
-    BasePage ..> TestFixture
-    BasePage ..> FetchdataService
+    TestBase ..> TestFixture
+    TestBase ..> FetchdataService
     
     TestHomePage ..> HomePage
     TestRegistrationPage ..> RegistrationPage
