@@ -7,7 +7,7 @@
 * POM Object Model
 
 ## What to Test
-![alt text](https://raw.githubusercontent.com/susmita-t/plantuml/master/what_to_test.png)
+![alt text](https://github.com/susmita-t/testautomation/blob/master/what_to_test.png)
 
 ## Tools
 * Selenium for Functionality Testing
