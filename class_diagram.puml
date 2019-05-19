@@ -1,6 +1,13 @@
 @startuml
     class TestFixture
-    class FetchdataService
+    note bottom: Singleton Object\ndoes all the required\nsetup for the test\ncreates Frontend, Backend and\nFetchDataService \n
+    
+    class FetchDataService
+        FetchDataService : -backend
+    note top: FetchDataService uses Backend\nto call required WebService call
+    class Frontend
+    class Backend
+    
     
     class BasePage
     class HomePage
@@ -8,8 +15,7 @@
     
     class TestBase
         TestBase : -frontend
-        TestBase : -backend
-        TestBase : -dataservice
+        TestBase : -fetchdata_service
     class TestHomePage
     class TestRegistrationPage
     
@@ -20,9 +26,7 @@
     TestBase <|-- TestRegistrationPage
     
     TestBase ..> TestFixture
-    TestBase ..> FetchdataService
     
     TestHomePage ..> HomePage
     TestRegistrationPage ..> RegistrationPage
 @enduml
-
